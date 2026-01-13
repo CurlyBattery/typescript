@@ -1,0 +1,1 @@
+{"version":3,"file":"bank-account.js","sourceRoot":"","sources":["../../src/polymorphism/bank-account.ts"],"names":[],"mappings":";;;AAAA,MAAsB,WAAW;IAG7B,YAAY,cAAsB;QAC9B,IAAI,CAAC,OAAO,GAAG,cAAc,CAAC;IAClC,CAAC;IAED,OAAO,CAAC,MAAc;QAClB,IAAI,CAAC,OAAO,IAAI,MAAM,CAAC;IAC3B,CAAC;CAGJ;AAZD,kCAYC"}
